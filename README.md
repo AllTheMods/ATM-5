@@ -2,7 +2,7 @@
 
 All The Mods 5
 ======
-This is the official repository and issue-tracker for All The Mods SLOP 1.15.2
+This is the official repository and issue-tracker for All The Mods 5 1.15.2
   
 Does "All The Mods" *really* contain ALL THE MODS? No, of course not.
    
